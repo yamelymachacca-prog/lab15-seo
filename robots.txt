@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://TU-PROYECTO.vercel.app/sitemap.xml
+Sitemap: https://lab15-seo-ashy.vercel.app/sitemap.xml
